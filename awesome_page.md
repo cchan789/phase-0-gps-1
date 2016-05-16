@@ -24,4 +24,4 @@ else
 end 
 ```
 
-![alt text](https://github.com/cchan789/phase-0-gps-1/gps 1.1  ss.png
+![alt text](https://github.com/cchan789/phase-0-gps-1/gps1.1ss.png
